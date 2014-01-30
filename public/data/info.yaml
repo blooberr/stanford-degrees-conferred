@@ -1,0 +1,148 @@
+---
+  cip5:
+    name: Area and ethnic studies
+    years:
+      2012: 2.45
+      2011: 2.5
+      2010: 2.01
+      2009: 2.59
+    hum: true
+  cip9:
+    name: Communication/journalism
+    years:
+      2012: 1.62
+      2011: 2.5
+      2010: 2.18
+      2009: 2.46
+    hum: true
+  cip11:
+    name: Computer and information Sciences
+    years:
+      2012: 8.04
+      2011: 5.0
+      2010: 4.94
+      2009: 3.66
+    hum: false
+  cip14:
+    name: Engineering
+    years: 
+      2012: 14.97
+      2011: 15.1
+      2010: 13.5
+      2009: 13.67
+    hum: false
+  cip15:
+    name: Engineering technologies
+    years:
+      2012: 3.85
+      2011: 3.7
+      2010: 3.39
+      2009: 2.87
+    hum: false
+  cip23:
+    name: English
+    years: 
+      2012: 3.85
+      2011: 3.6
+      2010: 3.96
+      2009: 4.27
+    hum: true
+  cip16:  
+    name: Foreign languages and literatures
+    years:
+      2012: 3.07
+      2011: 3.0
+      2010: 3.22
+      2009: 2.7
+    hum: true
+  cip30:
+    name: Interdisciplinary studies
+    years: 
+      2012: 14.08
+      2011: 15.8
+      2010: 15.91
+      2009: 16.57
+    hum: true
+  cip24:
+    name: Liberal Arts/general studies
+    years: 
+      2012: 0.0
+      2011: 0.1 
+      2010: 0.34
+      2009: 0.45
+    hum: true
+  cip26:
+    name: Biological / Life Sciences
+    years:
+      2012: 5.92
+      2011: 7.1
+      2010: 7.06
+      2009: 6.81
+    notes: Biosciences in 2009
+    hum: false
+  cip27:
+    name: Mathematics and statistics
+    years:
+      2012: 3.35
+      2011: 3.3
+      2010: 3.27
+      2009: 4.11
+    hum: true
+    notes: Was just mathematics in 2009
+  cip38:
+    name: Philosophy, religion, theology
+    years:
+      2012: 1.23
+      2011: 1.7
+      2010: 1.38
+      2009: 1.57
+    hum: true
+  cip40:
+    name: Physical sciences
+    years:
+      2012: 6.09
+      2011: 4.7
+      2010: 5.46
+      2009: 4.27
+    hum: false
+  cip42:
+    name: Psychology
+    years: 
+      2012: 5.25
+      2011: 4.1
+      2010: 4.54
+      2009: 4.11
+    hum: true
+  cip44:
+    name: Public administration and social services
+    years: 
+      2012: 1.4
+      2011: 1.5
+      2010: 1.26
+      2009: 1.12
+    hum: true
+  cip45:
+    name: Social sciences
+    years: 
+      2012: 18.49
+      2011: 20.6
+      2010: 21.65
+      2009: 22.89
+    hum: false
+  cip50:
+    name: Visual and performing arts
+    years: 
+      2012: 2.57 
+      2011: 2.6
+      2010: 2.3
+      2009: 2.76
+    hum: true
+  cip54:
+    name: History
+    years: 
+      2012: 3.75
+      2011: 3.2
+      2010: 3.62
+      2009: 3.32
+    hum: true
+
