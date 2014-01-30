@@ -1,5 +1,5 @@
 stanford-degrees-conferred
 ==========================
+d3.js exploration of this fact:
 
-Fact checking: http://www.weeklystandard.com/articles/silicon-chasm_768037.html?nopager=1
-
+(Humanities majors dropped to 15% in the new york times article) http://www.nytimes.com/2013/10/31/education/as-interest-fades-in-the-humanities-colleges-worry.html
